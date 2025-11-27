@@ -2,7 +2,7 @@ class Rbx < Formula
   desc "Rubinius Language Platform compiler and runtime"
   homepage "https://github.com/rubinius/rbx"
   url "https://github.com/rubinius/rbx/archive/refs/tags/v26.0.tar.gz"
-  sha256 "5bbc588ff47ba6aed128a7bb947547de0bbf2587595a26928390c0ebaba4ce8d"
+  sha256 "ebdef671b4a636887034aaf4fa9f3ea20f70b80a2675d58b2dfb5feea1e4c6a4"
   license "BSD-3-Clause"
 
   depends_on "build2" => :build
